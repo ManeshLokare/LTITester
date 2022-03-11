@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-04T12:28:44Z" name="Suite" finished-at="2022-03-04T12:28:44Z" duration-ms="67">
+    <groups>
+    </groups>
+    <test started-at="2022-03-04T12:28:44Z" name="Test1" finished-at="2022-03-04T12:28:44Z" duration-ms="64">
+      <class name="Day_06.ParallelTestExecution">
+        <test-method signature="f()[pri:0, instance:Day_06.ParallelTestExecution@3c947bc5]" started-at="2022-03-04T12:28:44Z" name="f" finished-at="2022-03-04T12:28:44Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Day_06.ParallelTestExecution -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-03-04T12:28:44Z" name="Test2" finished-at="2022-03-04T12:28:44Z" duration-ms="67">
+      <class name="Day_06.ParallelTestExecution">
+        <test-method signature="f()[pri:0, instance:Day_06.ParallelTestExecution@1649b0e6]" started-at="2022-03-04T12:28:44Z" name="f" finished-at="2022-03-04T12:28:44Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Day_06.ParallelTestExecution -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

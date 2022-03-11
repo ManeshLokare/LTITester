@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="tests" name="Suite">
+  <test name="Test1">
+    <classes>
+      <class name="Day_06.ParallelTestExecution"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="Test2">
+    <classes>
+      <class name="Day_06.ParallelTestExecution"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
